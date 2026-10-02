@@ -1,0 +1,21 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+const stories = (await getCollection('stories')).sort((a, b) => a.data.order - b.data.order);
+---
+<Base title="Stories">
+  <h1>All the stories</h1>
+  <p>Pick an adventure. Read it together, or press the listen button and let Bobby's story be read out loud.</p>
+  <ul class="cards">
+    {stories.map((s) => (
+      <li class="card">
+        <a href={`/stories/${s.id}/`}>
+          <div class="emoji" aria-hidden="true">{s.data.emoji}</div>
+          <h3>{s.data.order}. {s.data.title}</h3>
+          <p>{s.data.summary}</p>
+          <span class="meta">{s.data.readingMinutes} minute read</span>
+        </a>
+      </li>
+    ))}
+  </ul>
+</Base>

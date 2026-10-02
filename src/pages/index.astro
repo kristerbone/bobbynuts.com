@@ -1,0 +1,30 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Bobby from '../components/Bobby.astro';
+const stories = (await getCollection('stories')).sort((a, b) => a.data.order - b.data.order);
+---
+<Base>
+  <section class="hero">
+    <div>
+      <h1>Hello, I'm Bobby Nut!</h1>
+      <p>I'm a little red squirrel who lives at the very top of the valley. I have a big plan, a bushy tail and a very good nose for nuts. Come and share my adventures!</p>
+      <p><a class="btn" href="/stories/">Read the stories</a> <a class="btn alt" href="/about/">Meet Bobby</a></p>
+    </div>
+    <div class="illus"><Bobby size={240} /></div>
+  </section>
+
+  <h2>Latest adventures</h2>
+  <ul class="cards">
+    {stories.map((s) => (
+      <li class="card">
+        <a href={`/stories/${s.id}/`}>
+          <div class="emoji" aria-hidden="true">{s.data.emoji}</div>
+          <h3>{s.data.title}</h3>
+          <p>{s.data.summary}</p>
+          <span class="meta">{s.data.readingMinutes} minute read</span>
+        </a>
+      </li>
+    ))}
+  </ul>
+</Base>
