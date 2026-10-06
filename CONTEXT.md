@@ -9,7 +9,6 @@ The name of the book series and the website, shared with the squirrel.
 
 **Story**:
 One short adventure of 400 to 600 words, set at one stretch of Good Wood, in which Bobby Nuts makes one new friend. A Story is also one chapter of a Book.
-_Avoid_: episode, tale
 
 **Book**:
 A first chapter book in the series, made of 4 to 6 Stories in journey order.
