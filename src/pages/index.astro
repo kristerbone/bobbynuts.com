@@ -7,14 +7,15 @@ const stories = (await getCollection('stories')).sort((a, b) => a.data.order - b
 <Base>
   <section class="hero">
     <div>
-      <h1>Hello, I'm Bobby Nut!</h1>
-      <p>I'm a little red squirrel who lives at the very top of the valley. I have a big plan, a bushy tail and a very good nose for nuts. Come and share my adventures!</p>
-      <p><a class="btn" href="/stories/">Read the stories</a> <a class="btn alt" href="/about/">Meet Bobby</a></p>
+      <h1>Hello, I'm Bobby Nuts!</h1>
+      <p>I'm a wee red squirrel who lives at the very top of Good Wood. I'm off on a big journey down the Burn to make new friends. Come and share my adventures!</p>
+      <p><a class="btn" href="/stories/">Read the stories</a> <a class="btn alt" href="/about/">Meet Bobby Nuts</a></p>
     </div>
     <div class="illus"><Bobby size={240} /></div>
   </section>
 
   <h2>Latest adventures</h2>
+  {stories.length === 0 && <p>Bobby Nuts's first adventure is coming soon.</p>}
   <ul class="cards">
     {stories.map((s) => (
       <li class="card">

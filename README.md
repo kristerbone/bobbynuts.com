@@ -1,6 +1,6 @@
 # bobbynuts.com
 
-Children's stories about Bobby Nut, a little red squirrel who wants to move from the top of our valley down to our house. Built with [Astro](https://astro.build).
+Children's stories about Bobby Nuts, a red squirrel journeying from the top of Good Wood down to our house. Built with [Astro](https://astro.build).
 
 ## Run it
 

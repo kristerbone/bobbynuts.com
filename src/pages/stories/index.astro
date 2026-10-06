@@ -5,7 +5,8 @@ const stories = (await getCollection('stories')).sort((a, b) => a.data.order - b
 ---
 <Base title="Stories">
   <h1>All the stories</h1>
-  <p>Pick an adventure. Read it together, or press the listen button and let Bobby's story be read out loud.</p>
+  <p>Pick an adventure. Read it together, or press the listen button and let Bobby Nuts's story be read out loud.</p>
+  {stories.length === 0 && <p>Bobby Nuts's first adventure is coming soon.</p>}
   <ul class="cards">
     {stories.map((s) => (
       <li class="card">
