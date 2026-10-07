@@ -43,6 +43,7 @@ Kris's daughter, who lives at Good Wood half of the time.
 
 **Bobbi** and **Suki**:
 The family's two dogs, both Bobby Nuts's friends from the start.
+Bobbi is the family's new puppy, whose full name is Bobbi Nuts. That makes the puppy Bobby Nuts's name-twin, so the squirrel is always called by his full name.
 
 **Ron (Smallie)** and **Reg (Biggie)**:
 The family's two cats, called Smallie and Biggie in the stories. They spook Bobby Nuts at first, then become his friends.
