@@ -12,6 +12,11 @@ Short handover notes. Claude reads these out at the start of each session. Clear
 - Claude now checks these notes at the start of each session (see "Working together" in `CLAUDE.md`).
 - The list below is what I'd like us to talk through together.
 
+**From Kris to Jen (8 October 2026)**
+- I've added the Magic Walk: our loop walk, where we found the Squirrel Hide. It's in `CONTEXT.md`, and the memories and the outbound route (about 4 km to the Hide) are in `docs/good-wood-notes.md`.
+- New idea at the bottom of this page: weave Bobby Nuts's journey between scenes of us on the Magic Walk. Please have a read and tell me what you think.
+- Still to sort out and add to `CONTEXT.md`: what "Good Wood" means exactly, the names Mid Wood, Hollywood, Dam Burst Valley and Forester's Cottage, and how big the Magic Woods is. The return half of the walk is to come.
+
 ## To discuss with Kris
 
 **Who it's for**
@@ -86,3 +91,13 @@ A series that teaches real biology, history and nature while telling a good stor
 
 - Who tells the story at this age? Bobby Nuts, an older narrator, or a family member?
 - Format: longer chapters (perhaps 1,500 to 3,000 words) for confident readers, with facts in the story and fuller notes at the back.
+
+## Weaving the Magic Walk through the Stories (Kris, October 2026)
+
+The Stories where Bobby Nuts travels to Good Wood could be woven between scenes of the family on the regular Magic Walk. The real walk would be the frame and Bobby Nuts's journey the story inside it.
+
+- Does each Story open or close with the family at the matching place on the walk, or only some of them?
+- Do the family tell Bobby Nuts's story as they walk, or does it just echo what they see?
+- The walk reaches the Squirrel Hide about 4 km in, which is Story 2. The Stories before it, set at the top, would need handling carefully.
+- Ancient forest next to bare plantation could carry the "wild wood versus planted wood" idea for the older series (see Jen's notes on mycelium above).
+

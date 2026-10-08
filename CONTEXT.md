@@ -64,6 +64,10 @@ _Avoid_: stream, river, brook
 **Walking Path**:
 The path that follows the Burn through the trees in lower Good Wood.
 
+**Magic Walk**:
+The family's favourite loop walk round Good Wood. They found the Squirrel Hide on the first one and have done it many times since, and the Moments from it inspired the stories. Highlights include the magic trees, the gnarly oaks for hugging, the ancient beeches (one called Ralph), the Techno Woods, the Techno Cows and Sheep, the gorse, the Moor with its trig point, and the return past "the pub". Suki comes every time, and visitors often join.
+_Avoid_: Magic Loop (the family call it the Magic Walk, even though it is a loop), Magic Woods (that is one place on the Burn)
+
 ### Places, top to bottom
 
 <!-- DRAFT ORDER below the Horse Fields: Jen and Kris to check and reorder. -->
