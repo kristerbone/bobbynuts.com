@@ -7,6 +7,10 @@ When a Moment is used in a Story, add `→ used in Story N` at the end of the li
 ## Moments
 
 - By October 2026: Something has been eating from the Nut Boxes. We don't know what yet.
+- Several years ago (date unknown): one red squirrel seen at the house. That's why the family bought the 4 Nut Boxes. Real background only, not for the Stories: grey squirrels were seen just before the boxes went up, so the family trapped them first. No greys seen for a while. Then the boxes went up and something started feeding from them.
+- Storm Babet (October 2023): a causeway in Dam Burst Valley overflowed and burst, sending a "tsunami" down the Burn through the family's property. That's how the valley got its name. Date from Kris's description, to be confirmed.
+- October 2026: the Hide Feeders have been taken away for the season (the family hope for renovation).
+- October 2026: the Burn runs through the family's garden. A bridge over it sits under an Asian walnut tree, and recently the bridge has been covered in nut cases that look eaten from above. Possible clue for the Nut Box mystery.
 
 ### Magic Walk (told by Kris, 7 October 2026)
 
@@ -25,6 +29,21 @@ The loop walk we've done many times, which is how we first found the Squirrel Hi
 ### Magic Walk route, outbound (told by Kris, 8 October 2026)
 
 The landmarks in order, about 4 km as far as the Squirrel Hide. More to add later.
+
+Correction (Kris, 15 October 2026): the Magic Walk is a loop, not out and back. The valley, from the house up to the Squirrel Hide, is the first half. The Burn runs through the family's garden, so the walk starts beside it. The forester's cottage is a beautiful house among trees, up the valley from the house.
+
+Route as clarified on 15 October 2026 (Kris), going up from the house, following the Burn all the way to the Spy Station. Magic Woods is the same stretch as Mid Wood, Hollywood and Dam Burst Valley.
+- Good Wood: the family's home and land.
+- Mid Wood: where the walk leaves the family's boundary.
+- Hollywood: next, marked by the entrance of a large holly tree. Still a mess from the Storm Babet flood.
+- Dam Burst Valley: where the causeway burst.
+- After the dam: the Rope Swings and cliffs. There are several routes through this section, and the family vary their route on the walk.
+- The small stone arched bridge is right at the top of the Magic Woods, just before the Spy Station. It isn't the bridge in the family's garden (the property straddles the Burn, so it has its own bridge, with the Asian walnut above it).
+- Beyond the farmer's field, the farm track is steep. It leads up to the private road, which has gates.
+- On the private road: Champion, his sad friend (a brown horse) and the white stallions.
+- Past the dam, the paths split. One goes past the forester's cottage, just before the Spy Station. The other goes up the valley. Both lead on to the Spy Station, then the farmer's field.
+
+The original list from 8 October follows. Its order for steps 1 and 2 is superseded by the above.
 
 1. Good Wood, Mid Wood, Hollywood, Dam Burst Valley, a farmer's field and the forester's cottage.
 2. Enter the Magic Woods. The path zigzags up and down the stream bank, sometimes high (the Rope Swings), sometimes low at the stream. Along the way: rock cliffs, Rock Pools, the stream cascading over rocks, fallen trees, and a small stone arched bridge with the stream running under it. All of this is the Magic Woods.

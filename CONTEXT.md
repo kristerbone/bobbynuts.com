@@ -55,7 +55,17 @@ The family's rabbit.
 
 **Good Wood**:
 The family's name for the real wooded valley where the stories happen, with the Squirrel Hide near the top and the house further down. Every place in the stories is a real place in Good Wood.
+It began as a nickname for the family's house and land, and the family also use it for any woodland that isn't plantation. A good wood has mixed trees and clear mycelium networks, showing the breadth of life, where a plantation is a monoculture. Good woods make you feel good and plantations don't.
 _Avoid_: the valley (as a proper name), the forest
+
+**Mid Wood**:
+The first wood beyond the family's boundary, going up the valley from the house.
+
+**Hollywood**:
+The next wood, marked by the entrance of a large holly tree. Still a mess from the Storm Babet flood, and the trees are thick with ivy, which gives it a creepy feeling.
+
+**Dam Burst Valley**:
+The part of the valley where a causeway burst in Storm Babet and sent a flood down the Burn through the family's land.
 
 **The Burn**:
 The tree-lined stream running the whole length of Good Wood. Bobby Nuts follows it down, so it links every Story.
@@ -111,7 +121,7 @@ The rope swings hanging over the Burn.
 The rocky cliffs above the Burn in lower Good Wood.
 
 **Spy Station**:
-The family's joke name for a building with a huge mast in Good Wood. Bobby Nuts first calls it the Giant Metal Tree.
+The family's joke name for a building with a huge mast in Good Wood: a 50 m mast with a small building at the bottom. It marks the top of the Magic Woods, just after the arched bridge. Bobby Nuts first calls it the Giant Metal Tree.
 _Avoid_: Chinese spy station, mast
 
 **Nut Boxes**:

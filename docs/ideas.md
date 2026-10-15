@@ -6,16 +6,15 @@ Big ideas for the Bobby Nuts series that haven't been decided yet. When Jen and 
 
 Short handover notes. Claude reads these out at the start of each session. Clear a note once it's been read and answered.
 
-**From Jen to Kris (7 October 2026)**
-- I've started this ideas page. Main ideas: an older nature series for Eva's age (9+) and parents, with mycelium, wild and planted woods, and things to spot on walks; adding sharing, balance, kindness, gratitude and gentle ways not to worry to the first series.
-- I've noted in `CONTEXT.md` that our puppy Bobbi's full name is Bobbi Nuts.
-- Claude now checks these notes at the start of each session (see "Working together" in `CLAUDE.md`).
-- The list below is what I'd like us to talk through together.
-
 **From Kris to Jen (8 October 2026)**
 - I've added the Magic Walk: our loop walk, where we found the Squirrel Hide. It's in `CONTEXT.md`, and the memories and the outbound route (about 4 km to the Hide) are in `docs/good-wood-notes.md`.
 - New idea at the bottom of this page: weave Bobby Nuts's journey between scenes of us on the Magic Walk. Please have a read and tell me what you think.
 - Still to sort out and add to `CONTEXT.md`: what "Good Wood" means exactly, the names Mid Wood, Hollywood, Dam Burst Valley and Forester's Cottage, and how big the Magic Woods is. The return half of the walk is to come.
+
+**From Kris to Jen (15 October 2026)**
+- Kris and Claude went through the Magic Walk route. New places in `CONTEXT.md` (Mid Wood, Hollywood, Dam Burst Valley), new Moments in `docs/good-wood-notes.md`, and "Good Wood" now also means any non-plantation wood.
+- In this page: Hollywood as the creepy Story, and route checks (Story 7 at the garden bridge, the Giant Metal Tree seen for miles). Both are Kris's proposals, so please say if you agree.
+- Open route questions are in "Magic Walk route: open questions" below.
 
 ## To discuss with Kris
 
@@ -101,3 +100,43 @@ The Stories where Bobby Nuts travels to Good Wood could be woven between scenes 
 - The walk reaches the Squirrel Hide about 4 km in, which is Story 2. The Stories before it, set at the top, would need handling carefully.
 - Ancient forest next to bare plantation could carry the "wild wood versus planted wood" idea for the older series (see Jen's notes on mycelium above).
 
+
+## Hollywood as the creepy Story (Kris, 15 October 2026)
+
+Save Hollywood (the ivy-covered, flood-messy wood past Mid Wood, entered under a large holly tree) for the Story where Bobby Nuts has to be still and brave. Kris's suggestion; Jen to agree before it goes into the guide's series plan. That plan doesn't list Hollywood, Mid Wood or Dam Burst Valley yet, so the Stories would need reordering.
+
+- Is Hollywood the scariest Story, or do the Cliffs (Story 9) stay the scariest?
+- Where does it fall in the order, now that the Burn route runs Mid Wood, Hollywood, Dam Burst Valley?
+
+## Route checks against the real walk (Kris, 15 October 2026)
+
+Proposed from reviewing the Magic Walk route with Claude. Jen to agree before anything moves into the guide's series plan.
+
+- **Story 7 (Footbridges) at the garden bridge**, not the arched bridge. The garden bridge is the one in the family's garden, under the Asian walnut. The only arched bridge is right at the top of the Magic Woods, next to the Spy Station.
+- **The Giant Metal Tree** (the Spy Station mast, 50 m) can be seen for miles, so Bobby Nuts could spot it long before he reaches it. That could run through several Stories as something he keeps seeing.
+- **Reverse order**: going down from the Hide, the real order is Champion, farm track, Spy Station, arched bridge, then the Magic Woods (cliffs, Rope Swings, dam, Hollywood, Mid Wood) and the house. The plan puts Spy Station at Story 10, which doesn't match.
+
+## Magic Walk route: open questions (Kris and Claude, 15 October 2026)
+
+Left unanswered when we paused the route review. We had covered the house up to the private road.
+
+**Private road and Horse Fields**
+- Does the brown horse (Champion's sad friend) have a name? Why do you call him sad?
+- How many white stallions are there, and do they stand together or alone?
+- Are the Horse Fields beside the private road, and is it one field or several?
+- Are the gates wooden or metal, and do you open them as you walk?
+- Is the farm track open or lined with trees, and what is the surface?
+
+**Squirrel Hide**
+- How do you get from the road to the Hide, and what does it look like from outside?
+
+**Magic Woods**
+- Which route do you usually take through the Rope Swings and cliffs section, and which would Bobby Nuts take?
+- Do the Burn cascades come above or below the dam?
+- The Rock Pools: where do they fall?
+
+**Rest of the loop (not yet covered)**
+- The fields and woodland after the Hide, the ancient forest next to the plantation, the Moor and trig point, "the pub", and the way back to the house.
+
+**Before and after**
+- Anything before the Pine Forest, or after the Nut Boxes?
