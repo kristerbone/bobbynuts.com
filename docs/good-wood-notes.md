@@ -43,6 +43,8 @@ Route as clarified on 15 October 2026 (Kris), going up from the house, following
 - On the private road: Champion, his sad friend (a brown horse) and the white stallions.
 - Past the dam, the paths split. One goes past the forester's cottage, just before the Spy Station. The other goes up the valley. Both lead on to the Spy Station, then the farmer's field.
 
+GPX check (Kris and Claude, 16 October 2026): Kris's reference route (about 13.7 km as drawn) is a loop that stops where the return meets the outbound path, about 1.4 km from the house. Kris confirms the walk follows the same route back from there to the house, so the whole Magic Walk is about 15 km. The outbound stretch from the house to that meeting point is walked twice, once going up and once coming home. The file is kept local only (`*.gpx` is git-ignored).
+
 The original list from 8 October follows. Its order for steps 1 and 2 is superseded by the above.
 
 1. Good Wood, Mid Wood, Hollywood, Dam Burst Valley, a farmer's field and the forester's cottage.
